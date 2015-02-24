@@ -1,0 +1,112 @@
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\PrjectServeride.dll.config
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\PrjectServeride.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\PrjectServeride.pdb
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\Antlr3.Runtime.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\EntityFramework.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\Newtonsoft.Json.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.Mvc.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.Optimization.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.Providers.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.Razor.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.WebPages.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\WebGrease.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\EntityFramework.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\Newtonsoft.Json.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.Mvc.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.Razor.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.WebPages.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\obj\Debug\PrjectServeride.csprojResolveAssemblyReference.cache
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\obj\Debug\PrjectServeride.dll
+C:\Users\Sevag\Desktop\JTH\Server-Side\PrjectServeride\PrjectServeride\obj\Debug\PrjectServeride.pdb
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\PrjectServeride.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\PrjectServeride.pdb
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\Antlr3.Runtime.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\EntityFramework.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\Newtonsoft.Json.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Net.Http.Formatting.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.WebHost.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Mvc.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Optimization.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Providers.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Razor.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Razor.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\WebGrease.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\EntityFramework.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\Newtonsoft.Json.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Net.Http.Formatting.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.WebHost.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Mvc.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Razor.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Razor.xml
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.csprojResolveAssemblyReference.cache
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.dll
+C:\Users\anse1304\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.pdb
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\PrjectServeride.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\PrjectServeride.pdb
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\Antlr3.Runtime.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\EntityFramework.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\Newtonsoft.Json.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Mvc.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Optimization.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Providers.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Razor.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\WebGrease.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\EntityFramework.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\Newtonsoft.Json.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Mvc.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Razor.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.dll
+C:\Users\Kevin\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.pdb
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\PrjectServeride.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\PrjectServeride.pdb
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\Antlr3.Runtime.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\EntityFramework.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\Newtonsoft.Json.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Net.Http.Formatting.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.WebHost.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Mvc.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Optimization.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Providers.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Razor.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Razor.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\WebGrease.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\EntityFramework.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\Newtonsoft.Json.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Net.Http.Formatting.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Http.WebHost.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Mvc.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.Razor.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\bin\System.Web.WebPages.Razor.xml
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.dll
+C:\Users\ljke1313\Desktop\Nytt 2.0\PrjectServeride\obj\Debug\PrjectServeride.pdb

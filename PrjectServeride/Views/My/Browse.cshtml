@@ -1,0 +1,43 @@
+﻿@{
+    
+    Layout = null;
+    ViewBag.Title = "Browse";
+}
+
+<!DOCTYPE html>
+
+<html>
+      <head>
+          <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+          
+          @*@RenderSection("Styles",false)*@
+    <title>Test123</title>
+    
+    </head>
+<body>
+
+ 
+    <div id="bothCol">
+      
+    <div id="leftCol">
+        <div id="mainMenu">
+
+       <ul>
+        <li>@Html.ActionLink("Start page", "Index", "My")</li>
+       
+        <li>@Html.ActionLink("Browse", "Browse", "My")</li>
+       </ul>
+        </div>
+       
+        </div>
+    <div id="rightCol">
+
+
+    </div>
+        </div>
+
+</body>
+
+
+
+</html>

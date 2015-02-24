@@ -1,0 +1,111 @@
+﻿@{
+    
+    Layout = null;
+    ViewBag.Title = "Browse";
+}
+
+<!DOCTYPE html>
+
+<html>
+      <head>
+          <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+          <script src="@Url.Content("../../Scripts/Script.js")" type="text/javascript"></script>
+          <script>
+           function codeAddress() {
+               document.getElementById("registerFrm").style.visibility = "hidden";
+        }
+          
+          </script>
+              @*@RenderSection("Styles",false)*@
+    <title>Test123</title>
+    
+    </head>
+<body onload="codeAddress()">
+
+    <div id="bothCol">
+      
+    <div id="leftCol">
+        <div id="mainMenu">
+
+       <ul>
+        <li>@Html.ActionLink("Start page", "Index", "My")</li>
+       
+        <li>@Html.ActionLink("Browse", "Browse", "My")</li>
+       </ul>
+        </div>
+
+        <div Class="header1">Search</div>
+        <div id="searchArea">
+            <div id="menuContent">
+            <nav>
+	<ul>
+		<li ><a href="#" id="ActiveS">All</a>
+		    <ul>
+              
+                <li ><a href="#" id="AllS" onclick="loadAll()">All</a></li>
+				<li ><a href="#" id="AuthorS" onClick="loadAuthor()">Author</a></li>
+				<li ><a href="#" id="TitleS" onclick="loadTitle()">Title</a></li>
+			</ul>
+		</li>
+	</ul>
+              
+
+            </nav>
+                </div>
+            <div id="inputContent">
+              <input type="text" id="searchTxt" />
+                </div>
+        <!--<input type="text" id="searchBoxTxt" /><input type="button" />-->
+       
+            <div id="buttonContent">
+
+                <input type="button" id="btnSearch" value="Search" />
+
+                </div>
+    </div>
+        </div>
+    <div id="rightCol">
+       
+        <div id="loginForm">
+            
+            <form>
+                <div class="control-group">
+                    <label class="control-label" for="radios">Log in as</label>
+                    <div class="controls">
+                        <label class="radio inline" for="radios-0">
+                            <input type="radio" name="radios" id="radios-0" value="Borrower" checked="checked">
+                            Borrower
+                        </label>
+                        <label class="radio inline" for="radios-1">
+                            <input type="radio" name="radios" id="radios-1" value="Administrator">
+                            Administrator
+                        </label>
+                    </div>
+                </div>
+
+            <p>Name <input id="name_login" type="text" placeholder="Enter name"/></p>
+                <p>password <input id="pass_login" type="password" placeholder="Enter password" /></p>
+                <div id="RegisterBtn">
+                <button onclick="loadRegForm()">Register </button></div>
+                <div id="LoginBtn">
+                <button>Log in </button></div>
+            </form>
+            <div id="registerHolder">
+            <form><div id="registerFrm" style="visibility:hidden;">
+                Username: <input type="text" /><br />
+                Password: <input type="password" /><br />
+               <button style="margin-left:200px;">Register </button></div>
+                </div>
+            </form>
+                </div>
+
+        </div>
+
+    </div>
+        </div>
+
+</body>
+
+
+
+</html>
